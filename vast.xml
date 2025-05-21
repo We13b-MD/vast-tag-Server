@@ -1,0 +1,26 @@
+<VAST version="3.0">
+  <Ad id="12345">
+    <InLine>
+      <AdSystem>Martel Ad Server</AdSystem>
+      <AdTitle>In-Banner Video Ad</AdTitle>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:39</Duration>
+
+            <VideoClicks>
+              <ClickThrough>https://digitaltribe.com.ng/</ClickThrough>
+            </VideoClicks>
+
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="300" height="600">
+                https://res.cloudinary.com/dgxlcvciz/video/upload/v1747799345/9by16_CHIVAS_X_ARSENAL_online-video-cutter.com_kuj3ss.mp4
+              </MediaFile>
+            </MediaFiles>
+
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
